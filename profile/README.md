@@ -16,21 +16,28 @@
 ---
 
 ### 🚀 Current Projects
-
-- **Gamorize Engine**
-  - A powerful, easy-to-use Game Engine based on pygame written in Python.
-  - Supports both 2D and 3D game development.
-  - Lightweight and extensible with customizable features.
-  
 - **Upcoming Games**
-  - **Outrun**: 
-    - 3D Game using Gamorize Engine
-    - Car-Street-Racing Game
+  - **Realms**: 
+    - 2D RTS (Real Time Strategy Game)
+    - 21st Century
     - Release: (Not known yet but probably some time around end of 2025)
     - Price: (Unkown)
   
 - **Game Development Tools**
-  - Building custom tools and assets for game creators using Blender, Python, and more.
+  - **Tile2D Studio**
+    - Software to create Tilemaps visually.
+    - Supports our new `.gm2d` (Game Map 2D) Format
+    - Release: probably mid/end-2025
+    - Price: FREE
+    - [Repository](https://github.com/Gamorize/Tile2D-Studio)
+  - **Accetra**
+    - Python library for multi-language Applications
+    - Supports XML and JSON
+    - Includes a CLI for templates and validation
+    - `pip install accetra`
+    - Price: FREE
+    - Release: Already Out!
+    - [Repository](https://github.com/Gamorize/accetra)
 
 ---
 
@@ -53,13 +60,12 @@ At **Gamorize Studios**, we strive to make game development accessible to everyo
 
 ### 📈 Roadmap
 
-- **Release of Gamorize Engine** – First stable release with 2D and 3D game support.
-- **Tooling for Game Designers** – Expanding the engine with intuitive visual tools for non-programmers.
+- **Tooling for Game Designers** – Expanding the engine with intuitive visual tools for non-programmers: [Tile2D Studio](https://github.com/Gamorize/Tile2D-Studio)
 ---
 
 ### 🌐 Connect with Us
 
-- [Website](https://gamorize.com) _(Coming Soon!)_
+- [Website](https://gamorize.com)
 - [GitHub](https://github.com/Gamorize)
 - [X (Twitter)](https://x.com/gamorize) _(Follow us for updates!)_
 - [YouTube](https://www.youtube.com/@GamorizeStudios) _(Tutorials and project showcases!)_

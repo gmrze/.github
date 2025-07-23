@@ -2,10 +2,6 @@
   <img src="https://github.com/Gamorize/.github/blob/main/Gamorize-3.png" alt="Gamorize Studios Logo">
 </p>
 
-<p align="center">
-  <img width="300" height="64" src="https://skillicons.dev/icons?i=py,github,blender,vscode&perline=4&theme=dark" alt="Skills">
-</p>
-
 <h1 align="center">Welcome to Gamorize Studios!</h1>
 
 <p align="center">

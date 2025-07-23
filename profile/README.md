@@ -13,11 +13,6 @@
 
 ### 🚀 Current Projects
 - **Upcoming Games**
-  - **Realms**: 
-    - 2D RTS (Real Time Strategy Game)
-    - 21st Century
-    - Release: (Not known yet but probably some time around end of 2025)
-    - Price: (Unkown)
   
 - **Game Development Tools**
   - **Tile2D Studio**
@@ -34,40 +29,21 @@
     - Price: FREE
     - Release: Already Out!
     - [Repository](https://github.com/Gamorize/accetra)
+  - **Vortex2D**
+    - Game Engine (2D), based on OpenGL
+    - Price: FREE
+    - Release: Still in Development
+    - [Repository](https://github.com/Gamorize/vortex2d)
 
----
-
-### 🛠️ Tools & Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> 
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"> 
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"> 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
-
----
-
-### 💡 Our Vision
-
-At **Gamorize Studios**, we strive to make game development accessible to everyone. Whether you're a beginner or a seasoned developer, our tools and engines are designed to help you bring your creative visions to life with minimal hassle. We believe in the power of open-source technologies.
-
----
-
-### 📈 Roadmap
-
-- **Tooling for Game Designers** – Expanding the engine with intuitive visual tools for non-programmers: [Tile2D Studio](https://github.com/Gamorize/Tile2D-Studio)
----
 
 ### 🌐 Connect with Us
 
 - [Website](https://gamorize.com)
 - [GitHub](https://github.com/Gamorize)
 - [X (Twitter)](https://x.com/gamorize) _(Follow us for updates!)_
-- [YouTube](https://www.youtube.com/@GamorizeStudios) _(Tutorials and project showcases!)_
-- [Email](mailto:gamorizestudios@gmail.com) _(Reach out to us directly via email!)_
+- [YouTube](https://www.youtube.com/@gmrze) _(Tutorials and project showcases!)_
+- [Email](mailto:info@gamorize.com) _(Reach out to us directly via email!)_
 
----
 
 <p align="center">
   <strong>Stay tuned for more exciting projects and updates!</strong>

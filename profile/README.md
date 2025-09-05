@@ -9,32 +9,6 @@
   Building innovative games and tools with Python and cutting-edge technologies.
 </p>
 
----
-
-### 🚀 Current Projects
-- **Upcoming Games**
-  
-- **Game Development Tools**
-  - **Tile2D Studio**
-    - Software to create Tilemaps visually.
-    - Supports our new `.gm2d` (Game Map 2D) Format
-    - Release: probably mid/end-2025
-    - Price: FREE
-    - [Repository](https://github.com/Gamorize/Tile2D-Studio)
-  - **Accetra**
-    - Python library for multi-language Applications
-    - Supports XML and JSON
-    - Includes a CLI for templates and validation
-    - `pip install accetra`
-    - Price: FREE
-    - Release: Already Out!
-    - [Repository](https://github.com/Gamorize/accetra)
-  - **Vortex2D**
-    - Game Engine (2D), based on OpenGL
-    - Price: FREE
-    - Release: Still in Development
-    - [Repository](https://github.com/Gamorize/vortex2d)
-
 
 ### 🌐 Connect with Us
 
@@ -43,6 +17,7 @@
 - [X (Twitter)](https://x.com/gamorize) _(Follow us for updates!)_
 - [YouTube](https://www.youtube.com/@gmrze) _(Tutorials and project showcases!)_
 - [Email](mailto:info@gamorize.com) _(Reach out to us directly via email!)_
+- [Discord](https://gamorize.com/discord)
 
 
 <p align="center">

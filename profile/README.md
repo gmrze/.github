@@ -12,12 +12,13 @@
 
 ### 🌐 Connect with Us
 
-- [Website](https://gamorize.com)
+- [Website](https://gmrze.net)
+- [Status](https://status.gmrze.com)
 - [GitHub](https://github.com/Gamorize)
 - [X (Twitter)](https://x.com/gamorize) _(Follow us for updates!)_
 - [YouTube](https://www.youtube.com/@gmrze) _(Tutorials and project showcases!)_
 - [Email](mailto:info@gamorize.com) _(Reach out to us directly via email!)_
-- [Discord](https://gamorize.com/discord)
+- [Discord](https://gmrze.net/discord)
 
 
 <p align="center">
